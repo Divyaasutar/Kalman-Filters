@@ -3,3 +3,4 @@ class System(Enum):
     STATIC = "static"
     DYNAMIC = "dynamic"
     NON_LINEAR = "non_linear"
+    UNKNOWN = "unknown"
