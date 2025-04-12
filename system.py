@@ -4,3 +4,4 @@ class System(Enum):
     DYNAMIC = "dynamic"
     NON_LINEAR = "non_linear"
     NULL = "null"
+    UNKNOWN = "unknown"
