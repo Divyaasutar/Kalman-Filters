@@ -1,6 +1,6 @@
 
 #
-# USED FOR MATRIX MATHS
+# LIBRARY FOR MATRIX MATHS
 #
 
 class Matrix:
